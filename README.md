@@ -1,1 +1,1 @@
-![Alt text](/image.jpg?raw=true "Example Screenshot")
+![Example Screenshot](/image.png?raw=true "Example Screenshot")
